@@ -15,21 +15,36 @@
 
 1. Зарегистрироваться на сайте github.com![image](https://user-images.githubusercontent.com/70951761/139599037-04ae81de-0cad-4b99-9a16-5ca024e8596e.png)
 
-2. Установить на компьютере программу Git![Uploading image.png…]()
+2. Установить на компьютере программу Git![image](https://user-images.githubusercontent.com/70951761/139599053-4ad78b5e-34d9-41d5-bcb9-af405090b2b3.png)
 
-3. Форкнуть данный репозиторий в свой аккаунт
-4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
-5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
-6. Фиксируем скрипт в репозитории (делаем коммит)
-7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
-8. Через текстовый редактор добавить любую новую строку с комментарием
-9. Сделать коммит
-10. Вности синтаксическую ошибку в скрипт
-11. Сделать коммит ошибочного скрипта
-12. Откатываем до последней рабочей версии
-13. Просмотреть историю коммитов
-15. Добавить несколько коммитов произвольного содержимого
-16. Создать пулл реквест в данный репозиторий
+3. Форкнуть данный репозиторий в свой аккаунт![image](https://user-images.githubusercontent.com/70951761/139599085-86c2c42b-950c-480d-b5e7-bed548136531.png)
+
+4. Склонировать созданный удаленный репозиторий в директорию ~/git/test![image](https://user-images.githubusercontent.com/70951761/139599396-3ca12436-dd97-4964-9ca1-57a18faf7867.png)
+
+5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием![image](https://user-images.githubusercontent.com/70951761/139599231-1b0666ca-d404-4fdc-836b-f9f71de4e77a.png)
+
+6. Фиксируем скрипт в репозитории (делаем коммит) ![image](https://user-images.githubusercontent.com/70951761/139599439-b1f8dbdd-de27-42bd-9db7-f97984592f8a.png)
+
+7. Обновляем удаленный репозиторий репозиторий (делаем пуш)![image](https://user-images.githubusercontent.com/70951761/139599493-20e49f81-38be-4182-b35a-ef4f4819b5d0.png)
+
+8. Через текстовый редактор добавить любую новую строку с комментарием![image](https://user-images.githubusercontent.com/70951761/139599563-1a88fa68-a3fd-4b2e-a42c-f8ad67fc0148.png)
+
+9. Сделать коммит![image](https://user-images.githubusercontent.com/70951761/139599590-feb6f93c-0bde-48f5-973f-55e83f7ee901.png)
+
+10. Внести синтаксическую ошибку в скрипт![image](https://user-images.githubusercontent.com/70951761/139599690-c36c4f11-184b-429f-922d-89fe5491e67e.png)
+
+11. Сделать коммит ошибочного скрипта![image](https://user-images.githubusercontent.com/70951761/139599679-2891ddf6-8824-41fe-ac14-f4877ada9ebf.png)
+
+12. Откатываем до последней рабочей версии![image](https://user-images.githubusercontent.com/70951761/139599778-b193741a-cbb5-4a0c-af83-e2e52bf52603.png)
+![image](https://user-images.githubusercontent.com/70951761/139599865-9052b6b5-051a-41b4-bde7-1d40cafbf646.png)
+13. Просмотреть историю коммитов![image](https://user-images.githubusercontent.com/70951761/139599893-502dbb6d-29db-4193-93c9-89c496b3d2aa.png)
+
+14. Добавить несколько коммитов произвольного содержимого![image](https://user-images.githubusercontent.com/70951761/139600070-bee284e8-ef55-4d9b-8043-fd2aaf8ac893.png)
+![image](https://user-images.githubusercontent.com/70951761/139600082-4cb0cd75-b3a8-4aa2-9abf-d049d7fe1870.png)
+![image](https://user-images.githubusercontent.com/70951761/139600084-58ddddeb-b665-4d2c-8766-455cca70eef7.png)
+![image](https://user-images.githubusercontent.com/70951761/139600170-6c083bf6-ca55-4aa7-826d-c8e65a516c14.png)
+
+15. Создать пулл реквест в данный репозиторий
 
 
 ### Контрольные вопросы
